@@ -9,6 +9,6 @@ public static void main(String args[]) {
 	emp.setEmpName("John");
 	
 	System.out.println("Id:" + emp.getEmpId());
-	System.out.println("Name of EMp:" + emp.getEmpName());
+	System.out.println("Name of Employee:" + emp.getEmpName());
 }
 }
